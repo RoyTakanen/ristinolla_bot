@@ -1,0 +1,10 @@
+{
+  "name": "Ristinolla",
+  "link": "t.me/ristinolla_bot",
+  "about": "Hei👋, olen botti 🤖 ja avitan sinua pelaamaan 🎮 ristinollaa ystäviesi kanssa.",
+  "botbic": "file:tictactoe.png",
+  "description": "Hei👋, olen botti 🤖, jonka avulla voit pelata 🎮 ristinollaa ystäviesi kanssa. Tulevaisuudessa 🔮 voit myös pelata minua 🤖 vastaan. Muuten, olen vielä kehityksen alla 🚧 eli älä hämmenny.",
+  "commands": "lauta - Katso tilannetta 📺
+siirto - Tee siirto 🎮
+pyyhilauta - Siivoa lauta 🧽"
+}
